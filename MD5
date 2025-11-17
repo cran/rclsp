@@ -1,0 +1,12 @@
+6418d856e08a18a2d6299abf5ea79b85 *DESCRIPTION
+8dfbfa26a38c4c58d6f46d25e24829c1 *LICENSE
+2606dd5456216d6eb4b0016d7c0d216f *NAMESPACE
+efc7bd1caf8be73c4355314aa507b044 *R/clsp.R
+22c9ab0e259c19e4e8dcf4e4f71a18ea *R/utils.R
+c5cb80b5e87ba68902ba848218e33c03 *README.md
+41f0f74ccf27fe02b904eab1cb7b9b8d *man/canonize.Rd
+3c2696d3836ef55a25cdb8e7e344ab8b *man/clsp.Rd
+db9cbcbe9e9e6885e597c8257943c1ae *man/corr.Rd
+aeeeaebdfcf91b5f796f01e4dcc1faa0 *man/ttest.Rd
+851ef301f782db514d31118f56873709 *tests/testthat.R
+9568119943216386aaac2097b8685e72 *tests/testthat/test-clsp.R
